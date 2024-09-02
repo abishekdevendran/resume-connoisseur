@@ -1,0 +1,19 @@
+{
+	"senderAddress": [
+		"No. 8, 43rd Street",
+		"Sarvamangala Colony, Ashok Nagar",
+		"Chennai - 600083"
+	],
+	"recipientAddress": [
+		"The Hiring Manager",
+		"XYZ Company",
+		"No. 12, 45th Street",
+		"Sarvamangala Colony, Ashok Nagar",
+		"Chennai - 600083"
+	],
+	"date": "2nd Sep 2024",
+	"salutation": "Dear Hiring Manager,",
+	"body": ["lorem ipsum"],
+	"closing": "Thank you for considering my application. I look forward to hearing from you soon.",
+	"signature": "Sincerely,"
+}
